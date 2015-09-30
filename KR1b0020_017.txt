@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 融堂書解
-#+DATE: 2015-09-23 09:36:02
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:02:17.409458
+#+PROPERTY: ID KR1b0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1b0020_WYG_017-1a>¶
 欽定四庫全書¶
 　融堂書解卷十七¶
@@ -326,4 +328,3 @@
 　欲葬成周者周公憂國之心卒葬于畢者成王尊公¶
 　之禮歟将葬致告而亳姑之書作然則亳姑者葬畢¶
 　之地名歟¶
-

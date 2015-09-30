@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 融堂書解
-#+DATE: 2015-09-23 09:36:02
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:02:17.180910
+#+PROPERTY: ID KR1b0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1b0020_WYG_005-1a>¶
 欽定四庫全書¶
 　融堂書解卷五¶
@@ -236,4 +238,3 @@
 　¶
 　¶
 　融堂書解卷五¶
-

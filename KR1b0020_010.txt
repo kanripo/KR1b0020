@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 融堂書解
-#+DATE: 2015-09-23 09:36:02
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:02:17.258876
+#+PROPERTY: ID KR1b0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1b0020_WYG_010-1a>¶
 欽定四庫全書¶
 　融堂書解卷十¶
@@ -380,4 +382,3 @@
 　春秋傳曰諸侯之封也皆受命器于王室注云明德¶
 　之分器是已¶
 　融堂書解卷十¶
-
